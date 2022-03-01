@@ -54,7 +54,7 @@ export default function Signup({navigation}) {
           </View>
           <Animatable.View animation="fadeInUpBig" style={styles.footer}>
             <ScrollView>
-              <Text style={styles.text_footer}>First Name</Text>
+              <Text style={styles.text_footer}>First Name Amiir</Text>
               <View style={styles.action}>
                 <FontAwesome name="user-o" color={colors.grey} size={20} />
                 <TextInput
